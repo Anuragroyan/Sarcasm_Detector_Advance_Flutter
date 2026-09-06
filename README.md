@@ -1,0 +1,1 @@
+🤖 Sarcasm Detector is a Flutter app built with Dart that uses an ONNX machine learning model to analyze user-provided text and detect sarcasm. It demonstrates on-device AI integration, text classification, and real-time predictions without requiring a backend.
